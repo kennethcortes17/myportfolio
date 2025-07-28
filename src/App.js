@@ -28,7 +28,7 @@ export default function App() {
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📝 Data Entry Form</h3>
               <p className="text-sm text-gray-600 mb-2">Clean interface for collecting structured data into Google Sheets.</p>
-              <a href="https://docs.google.com/spreadsheets/d/2/dataentry" target="_blank" title="Data Entry Form" className="text-blue-600 underline">View Sheet</a>
+              <a href="https://docs.google.com/spreadsheets/d/1y137mrUz-8kmLMNUyEjFYYEJzNiFLIdHDDpGQyXstHs/edit?usp=sharing" target="_blank" title="Data Entry Form" className="text-blue-600 underline">View Sheet</a>
             </li>
 
             <li className="bg-white p-5 rounded-xl shadow-md">
