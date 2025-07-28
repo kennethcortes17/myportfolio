@@ -22,7 +22,7 @@ export default function App() {
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📅 Calendar Automation</h3>
               <p className="text-sm text-gray-600 mb-2">Automatically creates Google Calendar events from form inputs.</p>
-              <a href="https://docs.google.com/spreadsheets/d/1/calendar" target="_blank" title="Calendar Automation" className="text-blue-600 underline">View Sheet</a>
+              <a href="https://docs.google.com/spreadsheets/d/1NCf-FFQNGgNLBMSgXgWa6YnYKvFLU0bypUiEJ6ptkQs/edit?usp=sharing" target="_blank" title="Calendar Automation" className="text-blue-600 underline">View Sheet</a>
             </li>
 
             <li className="bg-white p-5 rounded-xl shadow-md">
