@@ -10,7 +10,8 @@ export default function App() {
         <header className="text-center">
           <h1 className="text-4xl font-bold text-blue-800">Kenneth Cortes</h1>
           <p className="text-lg text-gray-600">Content Moderator • Coach (Quality Analyst, Team Leader, Client Rapport) • Lead Qualification Specialist • Workforce Scheduler • Administrative Assistant</p>
-          <p className="mt-2 text-sm text-gray-500">Experienced Content Moderator with 3 years in remote setup and 8 years in the BPO industry, adept at managing non-voice accounts, client relations, coaching, quality analysis, and workforce planning, with strong skills in data management and proficiency in Microsoft Word, Excel, and Google Sheets.</p>
+          <p className="mt-2 text-sm text-gray-500">Experienced Content Moderator with 3 years in remote setup and 8 years in the BPO industry, adept at managing non-voice accounts, client relations, coaching,</p>
+          <p className="mt-3 text-sm text-gray-500">quality analysis, and workforce planning, with strong skills in data management and proficiency in Microsoft Word, Excel, and Google Sheets.</p>
         </header>
 
         {/* Projects Section */}
