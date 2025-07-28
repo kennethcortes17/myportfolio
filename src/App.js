@@ -21,13 +21,13 @@ export default function App() {
 
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📅 Calendar Automation</h3>
-              <p className="text-sm text-gray-600 mb-2">Automatically creates Google Calendar events from form inputs.</p>
+              <p className="text-sm text-gray-600 mb-2">Simple Google Calendar that you can play around with minimal data validation.</p>
               <a href="https://docs.google.com/spreadsheets/d/1NCf-FFQNGgNLBMSgXgWa6YnYKvFLU0bypUiEJ6ptkQs/edit?usp=sharing" target="_blank" title="Calendar Automation" className="text-blue-600 underline">View Sheet</a>
             </li>
 
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📝 Data Entry Form</h3>
-              <p className="text-sm text-gray-600 mb-2">Clean interface for collecting structured data into Google Sheets.</p>
+              <p className="text-sm text-gray-600 mb-2">Designed to collect, organize, and input structured information.</p>
               <a href="https://docs.google.com/spreadsheets/d/1y137mrUz-8kmLMNUyEjFYYEJzNiFLIdHDDpGQyXstHs/edit?usp=sharing" target="_blank" title="Data Entry Form" className="text-blue-600 underline">View Sheet</a>
             </li>
 
@@ -36,7 +36,12 @@ export default function App() {
               <p className="text-sm text-gray-600 mb-2">Monitor stock levels and track inventory with minimal setup.</p>
               <a href="https://docs.google.com/spreadsheets/d/1UWQPHa3dncuaiYtacQA0sGnKIorsajpITqguPsAU8fk/edit?usp=sharing" target="_blank" title="Inventory Tracker" className="text-blue-600 underline">View Sheet</a>
             </li>
-
+          
+            <li className="bg-white p-5 rounded-xl shadow-md">
+              <h3 className="text-xl font-semibold">📦 Property Listings</h3>
+              <p className="text-sm text-gray-600 mb-2">Designed to collect detailed information about real estate properties.</p>
+              <a href="https://docs.google.com/spreadsheets/d/1UWQPHa3dncuaiYtacQA0sGnKIorsajpITqguPsAU8fk/edit?usp=sharing" target="_blank" title="Property Listings" className="text-blue-600 underline">View Sheet</a>
+            </li>
           </ul>
         </section>
 
