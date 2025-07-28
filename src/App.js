@@ -3,9 +3,11 @@
 import React from "react";
 
 export default function App() {
+  <main className="min-h-screen bg-gray-100 flex items-center justify-center px-4">
+      <div className="max-w-3xl w-full bg-white p-8 rounded-xl shadow-lg text-center space-y-8">
   return (
-    <main className="min-h-screen bg-gray-50 text-gray-900 font-sans p-6">
-      <div className="max-w-4xl mx-auto space-y-12">
+  //  <main className="min-h-screen bg-gray-50 text-gray-900 font-sans p-6">
+    //  <div className="max-w-4xl mx-auto space-y-12">
 
         {/* Header Section */}
         <header className="text-center">
