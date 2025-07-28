@@ -34,7 +34,7 @@ export default function App() {
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📦 Inventory Tracker</h3>
               <p className="text-sm text-gray-600 mb-2">Monitor stock levels and track inventory with minimal setup.</p>
-              <a href="https://docs.google.com/spreadsheets/d/1UWQPHa3dncuaiYtacQA0sGnKIorsajpITqguPsAU8fk/edit?usp=sharing" target="_blank" title="Inventory Tracker" className="text-blue-600 underline">View Sheet</a>
+              <a href="https://docs.google.com/spreadsheets/d/117Yc1rnEYoF7XuSSLf2t0tofCzH6rKoVRHDUsuXTtmc/edit?usp=sharing" target="_blank" title="Inventory Tracker" className="text-blue-600 underline">View Sheet</a>
             </li>
           
             <li className="bg-white p-5 rounded-xl shadow-md">
