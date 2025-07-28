@@ -44,7 +44,7 @@ export default function App() {
         <footer className="pt-10 border-t">
           <h2 className="text-xl font-semibold mb-2">📬 Contact Me</h2>
           <p className="text-sm">Email: <a href="mailto:kennethcortes17@gmail.com" className="text-blue-600 underline">kennethcortes17@gmail.com</a></p>
-          <p className="text-sm">GitHub: <a href="https://github.com/kennethcortes17" target="_blank" className="text-blue-600 underline">github.com/kennethcortes17</a></p>
+          <p className="text-sm">LinkedIn: <a href="https://www.linkedin.com/in/kenneth-brian-d-cortes-514078189/" target="_blank" className="text-blue-600 underline">https://www.linkedin.com/in/kenneth-brian-d-cortes-514078189/</a></p>
         </footer>
 
       </div>
