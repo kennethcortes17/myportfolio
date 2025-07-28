@@ -10,8 +10,8 @@ export default function App() {
         {/* Header Section */}
         <header className="text-center">
           <h1 className="text-4xl font-bold text-blue-800">Kenneth Cortes</h1>
-          <p className="text-lg text-gray-600">Google Sheets Developer • Automation Enthusiast</p>
-          <p className="mt-2 text-sm text-gray-500">I build efficient, user-friendly tools using Google Sheets and Apps Script to automate workflows and boost productivity.</p>
+          <p className="text-lg text-gray-600">Content Moderator • Coach (Quality Analyst, Team Leader, Client Rapport) • Lead Qualification Specialist • Workforce Scheduler • Administrative Assistant</p>
+          <p className="mt-2 text-sm text-gray-500">Experienced Content Moderator with 3 years in remote setup and 8 years in the BPO industry, adept at managing non-voice accounts, client relations, coaching, quality analysis, and workforce planning, with strong skills in data management and proficiency in Microsoft Word, Excel, and Google Sheets.</p>
         </header>
 
         {/* Projects Section */}
@@ -22,19 +22,19 @@ export default function App() {
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📅 Calendar Automation</h3>
               <p className="text-sm text-gray-600 mb-2">Automatically creates Google Calendar events from form inputs.</p>
-              <a href="https://docs.google.com/spreadsheets/d/1/calendar" target="_blank" className="text-blue-600 underline">View Sheet</a>
+              <a href="https://docs.google.com/spreadsheets/d/1/calendar" target="_blank" title="Calendar Automation" className="text-blue-600 underline">View Sheet</a>
             </li>
 
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📝 Data Entry Form</h3>
               <p className="text-sm text-gray-600 mb-2">Clean interface for collecting structured data into Google Sheets.</p>
-              <a href="https://docs.google.com/spreadsheets/d/2/dataentry" target="_blank" className="text-blue-600 underline">View Sheet</a>
+              <a href="https://docs.google.com/spreadsheets/d/2/dataentry" target="_blank" title="Data Entry Form" className="text-blue-600 underline">View Sheet</a>
             </li>
 
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">📦 Inventory Tracker</h3>
               <p className="text-sm text-gray-600 mb-2">Monitor stock levels and track inventory with minimal setup.</p>
-              <a href="https://docs.google.com/spreadsheets/d/3/inventory" target="_blank" className="text-blue-600 underline">View Sheet</a>
+              <a href="https://docs.google.com/spreadsheets/d/3/inventory" target="_blank" title="Inventory Tracker" className="text-blue-600 underline">View Sheet</a>
             </li>
 
           </ul>
