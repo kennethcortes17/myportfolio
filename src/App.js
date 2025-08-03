@@ -57,7 +57,7 @@ export default function App() {
 
             <li className="bg-white p-5 rounded-xl shadow-md">
               <h3 className="text-xl font-semibold">🔍 Dynamic Searchbox</h3>
-              <p className="text-sm text-gray-600 mb-2">Designed to view progress of a specific project base on their completed task/milestone using checkbox.</p>
+              <p className="text-sm text-gray-600 mb-2">Allows users to type into a search box, and the sheet automatically filters and displays matching data in real time.</p>
               <a href="https://docs.google.com/spreadsheets/d/10DCbcSYNg_mwPXkQj9QL6BW0jBLjr5MYorfbv7B3UME/edit?usp=sharing" target="_blank" title="Dynamic Search Box" className="text-blue-600 underline">View Sheet</a>
             </li>
           </ul>
