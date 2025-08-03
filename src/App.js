@@ -60,6 +60,12 @@ export default function App() {
               <p className="text-sm text-gray-600 mb-2">Allows users to type into a search box, and the sheet automatically filters and displays matching data in real time.</p>
               <a href="https://docs.google.com/spreadsheets/d/10DCbcSYNg_mwPXkQj9QL6BW0jBLjr5MYorfbv7B3UME/edit?usp=sharing" target="_blank" title="Dynamic Search Box" className="text-blue-600 underline">View Sheet</a>
             </li>
+
+            <li className="bg-white p-5 rounded-xl shadow-md">
+              <h3 className="text-xl font-semibold">🔲 Barcode Generator</h3>
+              <p className="text-sm text-gray-600 mb-2">Allows you to create your own unique barcode.</p>
+              <a href="https://docs.google.com/spreadsheets/d/1sVdv2hwrvLLYEctPD53ZczYIYP7iJESgA3Ov1Qd9s-A/edit?usp=sharing" target="_blank" title="Barcode" className="text-blue-600 underline">View Sheet</a>
+            </li>
           </ul>
         </section>
 
