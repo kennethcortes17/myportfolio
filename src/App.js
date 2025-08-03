@@ -49,6 +49,13 @@ export default function App() {
               <a href="https://docs.google.com/spreadsheets/d/1UWQPHa3dncuaiYtacQA0sGnKIorsajpITqguPsAU8fk/edit?usp=sharing" target="_blank" title="Property Listings" className="text-blue-600 underline">View Sheet</a>
             </li>
           </ul>
+
+            <li className="bg-white p-5 rounded-xl shadow-md">
+              <h3 className="text-xl font-semibold">🏠 ProjectProgress bar</h3>
+              <p className="text-sm text-gray-600 mb-2">Designed to view progress of a specific project base on their completed task/milestone using checkbox.</p>
+              <a href="https://docs.google.com/spreadsheets/d/1538r--mNu0hXfYP7XrFD6dbUTRYQiwHcyYrpKjOYv4Q/edit?usp=sharing" target="_blank" title="Project Progress bar" className="text-blue-600 underline">View Sheet</a>
+            </li>
+          </ul>
         </section>
 
         {/* Contact Section */}
